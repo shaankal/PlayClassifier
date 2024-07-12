@@ -2,6 +2,7 @@ import os
 
 #from skimage import imread
 
+empty_list = []
 directory = ''
 categories = ['run', 'pass']
 
